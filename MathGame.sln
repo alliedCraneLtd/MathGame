@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathGame", "MathGame\MathGame.csproj", "{930EB1BE-3095-4B51-8416-08292B0B4C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		TestTest|Any CPU = TestTest|Any CPU
+		TestTest|x64 = TestTest|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.Debug|x64.ActiveCfg = Debug|x64
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.Debug|x64.Build.0 = Debug|x64
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.Release|x64.ActiveCfg = Release|x64
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.Release|x64.Build.0 = Release|x64
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.TestTest|Any CPU.ActiveCfg = TestTest|Any CPU
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.TestTest|Any CPU.Build.0 = TestTest|Any CPU
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.TestTest|x64.ActiveCfg = TestTest|x64
+		{930EB1BE-3095-4B51-8416-08292B0B4C63}.TestTest|x64.Build.0 = TestTest|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3383E5-29A0-410C-ADD5-FACF3F2D5AE4}
+	EndGlobalSection
+EndGlobal
